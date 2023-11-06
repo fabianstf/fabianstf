@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently a student at TU Darmstadt looking to expand my coding horizons.
+
 <!--
 **fabianstf/fabianstf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
